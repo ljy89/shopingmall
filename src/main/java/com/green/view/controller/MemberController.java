@@ -141,7 +141,8 @@ public class MemberController {
 	}
 	
 	/*
-	 * 동이름으로 우편번호 찾기 조회처리
+	 * 동이름으로 우편번호 찾기 조회처리!!!!
+	 * 
 	 */
 	@RequestMapping(value="/find_zip_num", method=RequestMethod.POST)
 	public String findZipNumAction(AddressVO vo, Model model) {
