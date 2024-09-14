@@ -56,7 +56,7 @@
   <c:otherwise>  
   <table id="orderList">
     <tr>
-     <th>댓글 충돌_발생</th>
+     <th>댓글 충돌_발생_해결</th>
      <td> ${qnaVO.reply}</td>
     </tr>
   </table>
